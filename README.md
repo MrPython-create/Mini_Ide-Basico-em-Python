@@ -10,5 +10,18 @@ A ideia é construir uma IDE leve, funcional e totalmente feita em Python, focad
 
 No Linux (ou terminal):
 
-```bash
+```bash## 📸 Preview
 python3 mini_ide-0.1.py
+
+
+## 📸 Preview
+
+![Preview](screenshot.png)
+
+## 📸 Preview
+
+![Preview](screenshot1.png)
+
+## 📸 Preview
+
+![Preview](screenshot2.png)
