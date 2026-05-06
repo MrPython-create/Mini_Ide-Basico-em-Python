@@ -35,6 +35,8 @@ Nova versão com recurso add e ALTOMATICO CODIGO:
 ### Executando código -ERRO-
 ![Preview](screenshot4.0.png)
 
+
+
 ## 🚀 Como usar
 📋 Requisitos
 Ter o Python 3 instalado no sistema
@@ -59,6 +61,13 @@ python3 mini_ide-V0.2.py
 
 
 ---
+
+## Create mini_ide-V0.1
+version: v0.1
+Titulo: Mini IDE v0.1
+Descricao: Primeira versão da Mini IDE
+- Editor básico
+- Abrir e salvar arquivos
 
 ## 🚀 Como usar
 
