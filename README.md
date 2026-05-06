@@ -24,7 +24,7 @@ python3 mini_ide-V0.2.py ----> Coloque; phyton3 e o Nome do Arquivo .py ok.
 
 Sugestões, ideias e melhorias são muito bem-vindas!
 
-Se você tiver alguma dica para melhorar o projeto, fique à vontade para abrir uma criticar ou enviar uma sugestão estou a disposto a recebelos Lá ele.
+Se você tiver alguma dica para melhorar o projeto, fique à vontade para abrir uma criticar ou enviar uma sugestão estou disposto a recebelos Lá ele MIL VEZES.
 
 Caso queira contribuir diretamente com código, também será um prazer faço apenas por ROBIHOOD kkk😊
 
