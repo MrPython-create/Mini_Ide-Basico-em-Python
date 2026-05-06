@@ -16,7 +16,7 @@ Para utilizar, você precisa ter o Python instalado no seu sistema.
 
 ## ▶️ Como executar
 No seu terminal: LINUX / RUINDOWS:::
-python3 mini_ide-V0.2.py ----> Nome do Arquivo .py ok.
+python3 mini_ide-V0.2.py ----> Coloque; phyton3 e o Nome do Arquivo .py ok.
 
 ---
 
