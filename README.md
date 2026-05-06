@@ -49,7 +49,7 @@ python3 mini_ide-V0.2.py
 
 ## 📥 Download
 
-⚠️ Não baixe pelo botão verde (Code → ZIP)
+⚠️ Não baixe pelo botão verde
 
 🚀 Versão atual:
 - [⬇️ Mini IDE v0.2]()
