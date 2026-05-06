@@ -69,9 +69,8 @@ Descricao: Primeira versão da Mini IDE
 - Editor básico
 - Abrir e salvar arquivos
 
-### Executando código -ERROR-
-Download:
-![Preview](mini_ide-0.1.py)
+### Download:
+[Download](mini_ide-0.1.py)
 
 ## 🚀 Como usar
 
