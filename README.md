@@ -47,6 +47,13 @@ No terminal LINUX:
 
 python3 mini_ide-V0.2.py
 
+## 📥 Download
+
+⚠️ Não baixe pelo botão verde (Code → ZIP)
+
+🚀 Versão atual:
+- [⬇️ Mini IDE v0.2]()
+
 
 ## 📸 Preview mini_ide-0.1
 
@@ -70,7 +77,8 @@ Descricao: Primeira versão da Mini IDE
 - Abrir e salvar arquivos
 
 ### Download:
-[Download](mini_ide-0.1.py)
+📦 Versões anteriores:
+- [Mini IDE v0.1](COLE_O_LINK_AQUI)
 
 ## 🚀 Como usar
 
