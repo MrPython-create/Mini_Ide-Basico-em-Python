@@ -1,4 +1,4 @@
-# Mini IDE em PHYTON
+# Mini IDE em PYTHON
 
 Antes de fala ou julga saibão q é minha primeira vez no github ainda estou aprendendo a mexe nele ok galera.
 
