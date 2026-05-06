@@ -1,12 +1,54 @@
-# Mini IDE em Python V0.1
+# Mini IDE em PHYTON
 
-Mini IDE em Python é um projeto simples criado com o objetivo de aprender e explorar como funcionam editores de código e ferramentas de desenvolvimento.
+Uma mini IDE desenvolvida em Python utilizando Tkinter, criada com o objetivo de aprender na prática como funcionam editores de código e ferramentas de desenvolvimento.
 
-A ideia é construir uma IDE leve, funcional e totalmente feita em Python, focada em prática, aprendizado e evolução ainda colocarei mas coisas em brever.
+O projeto começou simples e está evoluindo aos poucos, adicionando recursos reais de uma IDE, com foco em aprendizado, organização e experiência do usuário.
 
-## 📸 Preview
+🤝 Contribuições
 
-### Interface
+Sugestões, ideias e melhorias são muito bem-vindas!
+
+Se você tiver alguma dica para melhorar o projeto, fique à vontade para abrir uma criticar ou enviar uma sugestão estou a disposto a recebelos Lá ele.
+
+Caso queira contribuir diretamente com código, também será um prazer faço apenas por ROBIHOOD kkk😊
+
+🙌 Créditos e agradecimentos
+
+Este projeto foi desenvolvido por mim MR_PHYTONZINHO não é meu nome real ok, com foco em aprendizado,Pois não achei um IDE bom para o que eu estava precissando.
+
+💬 Observação
+
+Se você contribuir com algo como = (ideia, correção ou melhoria), posso adicionar seu nome FAKE ou REAL nos créditos do projeto se tiver ok para vcs.
+
+## 📸 Versão mini_ide-V0.2 
+Nova versão com recurso add e ALTOMATICO CODIGO:
+
+### Tela Princiapl
+![Preview](screenshot1.0.png)
+
+### Botão Arquivos
+![Preview](screenshot2.0.png)
+
+### Executando código -BOM-
+![Preview](screenshot3.0.png)
+
+### Executando código -ERRO-
+![Preview](screenshot.png)
+
+## 🚀 Como usar
+📋 Requisitos
+Ter o Python 3 instalado no sistema
+Ter suporte ao Tkinter (geralmente já vem com o Python)
+
+Para exercutar o projeto 
+No terminal LINUX:
+
+python3 mini_ide-V0.2.py
+
+
+## 📸 Preview mini_ide-0.1
+
+### Interface Mini IDE V0.1
 ![Preview](screenshot.png)
 
 ### Executando código -ERROR-
