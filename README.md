@@ -74,7 +74,7 @@ Descricao: Primeira versão da Mini IDE
 
 ## 🚀 Como usar
 
-No Linux (ou terminal):
+No seu Linux terminal:
 
 ```bash## 📸 Preview
 python3 mini_ide-0.1.py
