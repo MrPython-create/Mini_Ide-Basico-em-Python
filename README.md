@@ -62,7 +62,7 @@ python3 mini_ide-V0.2.py
 
 ---
 
-## Create mini_ide-V0.1
+## mini_ide-V0.1
 version: v0.1
 Titulo: Mini IDE v0.1
 Descricao: Primeira versão da Mini IDE
