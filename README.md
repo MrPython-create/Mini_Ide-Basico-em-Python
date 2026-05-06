@@ -77,8 +77,8 @@ Descricao: Primeira versão da Mini IDE
 - Abrir e salvar arquivos
 
 ### Download:
-📦 Versões anteriores:
-- [Mini IDE v0.1](COLE_O_LINK_AQUI)
+📦 Versões anterio:
+- [Mini IDE v0.1](https://github.com/MR-PHYTOZINHO/Mini_Ide-Basico-em-Python/releases/download/V0.1/mini_ide-0.1.py)
 
 ## 🚀 Como usar
 
