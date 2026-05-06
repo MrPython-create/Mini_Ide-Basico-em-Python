@@ -18,7 +18,7 @@ Para utilizar, você precisa ter o Python instalado no seu sistema.
 
 No Linux / terminal:
 
-bash
+``bash
 python3 mini_ide-0.2.py
 
 
