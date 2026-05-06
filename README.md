@@ -33,7 +33,7 @@ Nova versão com recurso add e ALTOMATICO CODIGO:
 ![Preview](screenshot3.0.png)
 
 ### Executando código -ERRO-
-![Preview](screenshot.png)
+![Preview](screenshot4.0.png)
 
 ## 🚀 Como usar
 📋 Requisitos
