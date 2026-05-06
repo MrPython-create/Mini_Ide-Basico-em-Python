@@ -1,4 +1,4 @@
-# Mini IDE em Python
+# Mini IDE em Python V0.1
 
 Mini IDE em Python é um projeto simples criado com o objetivo de aprender e explorar como funcionam editores de código e ferramentas de desenvolvimento.
 
