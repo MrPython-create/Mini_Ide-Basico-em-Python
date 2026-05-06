@@ -4,6 +4,24 @@ Uma mini IDE desenvolvida em Python utilizando Tkinter, criada com o objetivo de
 
 O projeto começou simples e está evoluindo aos poucos, adicionando recursos reais de uma IDE, com foco em aprendizado, organização e experiência do usuário.
 
+## ⚠️ Requisitos
+
+Este projeto é um script em Python, não um programa executável (.exe).
+
+Para utilizar, você precisa ter o Python instalado no seu sistema.
+
+👉 Download do Python: https://www.python.org/downloads/
+
+---
+
+## ▶️ Como executar
+
+No Linux / terminal:
+
+bash
+python3 mini_ide-0.2.py
+
+
 🤝 Contribuições
 
 Sugestões, ideias e melhorias são muito bem-vindas!
