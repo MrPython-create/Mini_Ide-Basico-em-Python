@@ -15,7 +15,7 @@ Para utilizar, você precisa ter o Python instalado no seu sistema.
 ---
 
 ## ▶️ Como executar
-No seu terminal: LINUX / RUINDOWS
+No seu terminal: LINUX / RUINDOWS:::
 python3 mini_ide-0.2.py
 
 ---
