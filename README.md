@@ -65,7 +65,7 @@ python3 mini_ide-V0.2.py
 
 ## 📥 Download
 
-⚠️ Não baixe pelo botão verde
+⚠️ Não baixe pelo botão verde pois vai baixa as DUAS versoes e as fotos todas ou baixa na verdade ksksk
 
 🚀 Versão atual:
 - [⬇️ Mini IDE v0.2](https://github.com/MR-PHYTOZINHO/Mini_Ide-Basico-em-Python/releases/download/V0.2/mini_ide-V0.2.py) mini_ide-V0.2
