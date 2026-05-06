@@ -6,6 +6,24 @@ Uma mini IDE desenvolvida em Python utilizando Tkinter, criada com o objetivo de
 
 O projeto começou simples e está evoluindo aos poucos, adicionando recursos reais de uma IDE, com foco em aprendizado, organização e experiência do usuário.
 
+## ⚠️ v0.3 🚧 (em breve)
+
+## 🎬 Créditos
+
+Desenvolvido por mim MRCS 💻
+Projeto Mini IDE Py — em evolução constante 🚀
+
+## 💡 Open Source
+
+Este projeto é open source, então você pode:
+
+Estudar o código 📚
+Melhorar o projeto 🔧
+Criar suas próprias versões 🍴
+Sugerir ideias 💡
+
+Se contribuir, seu nome pode aparecer nos créditos do projeto.
+
 ## ⚠️ Requisitos
 
 Este projeto é um script em Python, não um programa executável (.exe).
