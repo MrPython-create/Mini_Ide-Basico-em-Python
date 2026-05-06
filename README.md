@@ -1,5 +1,7 @@
 # Mini IDE em PHYTON
 
+Antes de fala ou julga saibão q é minha primeira vez no github ainda estou aprendendo a mexe nele ok galera.
+
 Uma mini IDE desenvolvida em Python utilizando Tkinter, criada com o objetivo de aprender na prática como funcionam editores de código e ferramentas de desenvolvimento.
 
 O projeto começou simples e está evoluindo aos poucos, adicionando recursos reais de uma IDE, com foco em aprendizado, organização e experiência do usuário.
