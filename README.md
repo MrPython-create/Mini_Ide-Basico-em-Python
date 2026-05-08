@@ -27,16 +27,16 @@ Base aprimorada para futuras versões
 ### Tela Princiapl
 ![Preview](1.png)
 
-### Botão Arquivos
+### Executando Codigo
 ![Preview](2.png)
 
-### Executando código -BOM-
+### Arquivos
 ![Preview](3.png)
 
-### Executando código -ERRO-
+### Executando mini Jogo NUMERO ADIVINHA
 ![Preview](4.png)
 
-### Botão Arquivos
+### Jogo executado com SUCESSO
 ![Preview](5.png)
 
 ## 📥 Download
