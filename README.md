@@ -39,7 +39,10 @@ Base aprimorada para futuras versões
 ### Botão Arquivos
 ![Preview](5.png)
 
+## 📥 Download
 
+Versão atual:
+- [⬇️ Mini IDE v0.2](https://github.com/MR-PHYTOZINHO/Mini_Ide-Basico-em-Python/releases/download/V0.3/mini_ide-V0.3.py) MForge_ide-V0.3
 
 
 ## 🎬 Créditos
