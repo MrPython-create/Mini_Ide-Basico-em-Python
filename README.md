@@ -6,7 +6,41 @@ Uma mini IDE desenvolvida em Python utilizando Tkinter, criada com o objetivo de
 
 O projeto começou simples e está evoluindo aos poucos, adicionando recursos reais de uma IDE, com foco em aprendizado, organização e experiência do usuário.
 
-## ⚠️ v0.3 🚧 (em breve)
+## v0.3 🚧
+
+🔥 Nova versão lançada!
+
+O Mini IDE v0.3 chegou trazendo melhorias importantes na experiência geral de uso, deixando tudo mais rápido, estável e organizado.
+
+Essa versão foca em evolução real do projeto, com ajustes que deixam o ambiente de desenvolvimento mais leve e eficiente.
+
+⚡ Novidades desta versão:
+
+Performance melhorada
+Interface mais polida e intuitiva
+Correções gerais e ajustes de estabilidade
+Melhor fluidez na execução de código
+Base aprimorada para futuras versões
+
+💡 Um IDE simples, direto e cada vez mais poderoso
+
+### Tela Princiapl
+![Preview](1.png)
+
+### Botão Arquivos
+![Preview](2.png)
+
+### Executando código -BOM-
+![Preview](3.png)
+
+### Executando código -ERRO-
+![Preview](4.png)
+
+### Botão Arquivos
+![Preview](5.png)
+
+
+
 
 ## 🎬 Créditos
 
