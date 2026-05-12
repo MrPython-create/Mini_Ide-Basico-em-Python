@@ -24,7 +24,8 @@ MForge IDE está evoluindo para algo cada vez maior.
 📦 Lançamento em breve no GitHub.
 
 ### Tela Princiapl
-![Preview](Captura de tela de 2026-05-12 15-16-44.png)
+![Preview](https://github.com/MR-PHYTOZINHO/Mini_Ide-Basico-em-Python/blob/main/Captura%20de%20tela%20de%202026-05-12%2015-16-44.png)
+
 
 ## v0.3
 
