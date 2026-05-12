@@ -17,7 +17,7 @@ Uma nova atualização está chegando...
 🔥 Melhor alinhamento visual
 🔥 Mais estabilidade e velocidade
 
-E isso é só o começo 👀
+E apenas o começo 👀
 
 MForge IDE está evoluindo para algo cada vez maior.
 
