@@ -6,7 +6,27 @@ Uma mini IDE desenvolvida em Python utilizando Tkinter, criada com o objetivo de
 
 O projeto começou simples e está evoluindo aos poucos, adicionando recursos reais de uma IDE, com foco em aprendizado, organização e experiência do usuário.
 
-## v0.3 🚧
+## MForge IDE v0.4 — EM BREVE 🚧
+
+Uma nova atualização está chegando...
+
+🔥 Melhorias no editor
+🔥 Preview mais limpo
+🔥 Sistema de execução otimizado
+🔥 Interface mais profissional
+🔥 Melhor alinhamento visual
+🔥 Mais estabilidade e velocidade
+
+E isso é só o começo 👀
+
+MForge IDE está evoluindo para algo cada vez maior.
+
+📦 Lançamento em breve no GitHub.
+
+### Tela Princiapl
+![Preview](1.png)
+
+## v0.3
 
 🔥 Nova versão lançada!
 
