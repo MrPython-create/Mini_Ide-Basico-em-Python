@@ -24,7 +24,7 @@ MForge IDE está evoluindo para algo cada vez maior.
 📦 Lançamento em breve no GitHub.
 
 ### Tela Princiapl
-![Preview](1.png)
+![Preview](Captura de tela de 2026-05-12 15-16-44.png)
 
 ## v0.3
 
