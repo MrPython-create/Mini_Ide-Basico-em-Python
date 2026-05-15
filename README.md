@@ -6,18 +6,37 @@ Uma mini IDE desenvolvida em Python utilizando Tkinter, criada com o objetivo de
 
 O projeto começou simples e está evoluindo aos poucos, adicionando recursos reais de uma IDE, com foco em aprendizado, organização e experiência do usuário.
 
-## MForge IDE v0.4 — EM BREVE 🚧
+## 🚀 MForge IDE v0.4 — Release
+MForge IDE v0.4 foi lançado! 🎉
 
-Uma nova atualização está chegando...
+O MForge IDE evoluiu de um experimento pessoal criado do zero para uma IDE leve e criativa focada em aprendizado, experimentação e desenvolvimento com Python.
 
-🔥 Melhorias no editor
-🔥 Preview mais limpo
-🔥 Sistema de execução otimizado
-🔥 Interface mais profissional
-🔥 Melhor alinhamento visual
-🔥 Mais estabilidade e velocidade
+Este projeto foi construído com Python + Tkinter, explorando ideias de editor de código, ferramentas criativas e ambientes de execução interativos.
 
-MForge IDE está evoluindo para algo cada vez maior.
+✨ Principais recursos
+🎨 Editor com destaque de sintaxe
+⚡ Execução de código em tempo real
+📁 Explorador de arquivos
+🤖 Autocomplete inteligente
+🐛 Verificação de erros com Ruff
+🪟 Janela de preview para experimentos visuais
+✍️ Auto indentação e auto fechamento de símbolos
+🧾 Console de saída e erros
+🛠️ Ferramentas básicas de edição
+🧠 Sobre o projeto
+
+O MForge IDE não foi criado para competir com editores profissionais.
+
+Ele é um ambiente experimental, feito para:
+
+aprendizado de Python
+criação de interfaces gráficas
+testes de ideias
+creative coding
+prototipagem rápida
+
+- [⬇️ Mini IDE v0.4](https://github.com/MR-PHYTOZINHO/Mini_Ide-Basico-em-Python/releases/download/V0.4/mini_ide-V0.4.py) MForge_ide-V0.4
+
 
 📦 Lançamento em breve no GitHub.
 
