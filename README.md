@@ -37,7 +37,7 @@ prototipagem rápida
 
 ⚙️ Execução
 
-O MForge IDE ainda não foi empacotado como .exe ou AppImage — ele acabou ficando como script Python mesmo.
+O MForge IDE ainda não foi   empacotado como .exe ou AppImage — ele acabou ficando como script Python mesmo.
 
 No momento, ele roda direto pelo terminal:
 
