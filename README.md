@@ -35,6 +35,16 @@ testes de ideias
 creative coding
 prototipagem rápida
 
+⚙️ Execução
+
+O MForge IDE ainda não foi empacotado como .exe ou AppImage — ele acabou ficando como script Python mesmo.
+
+No momento, ele roda direto pelo terminal:
+
+python3 mini_ide-V0.4.py
+
+Eu ainda não foquei em transformar ele em aplicativo instalável, então por enquanto ele depende do Python para funcionar por enquando vou deixar assim ok.
+
 - [⬇️ Mini IDE v0.4](https://github.com/MR-PHYTOZINHO/Mini_Ide-Basico-em-Python/releases/download/V0.4/mini_ide-V0.4.py) MForge_ide-V0.4
 
 
